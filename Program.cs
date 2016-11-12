@@ -9,7 +9,7 @@ namespace ТП1
     class Program
     {
         static void Main(string[] args)
-        {
+        {//red
             int Xk, Yk, Xc, Yc, i, p = 0;
             Random rnd = new Random();
             Xk = rnd.Next(3, 7);
